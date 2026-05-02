@@ -1,6 +1,4 @@
-Since you are submitting this for your evaluation, the README.md needs to be professional, clean, and focus on how to run the code. It should highlight that the system is modular and successfully integrates with the required logging service.
 
-Create a file named README.md in your root directory (RA2311003012249) and paste the following content:
 
 Vehicle Maintenance & Notification System
 This repository contains a production-grade Vehicle Maintenance Scheduler and a reusable Logging Middleware developed as part of a backend evaluation. The system calculates maintenance requirements based on vehicle mileage and communicates logs to a centralized evaluation server using secure JWT authentication.
